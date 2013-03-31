@@ -1,0 +1,58 @@
+{
+    "pacman_up":[{"x":352, "y":96},{"x":320, "y":96}],
+    "pacman_down":[{"x":352, "y":32},{"x":320, "y":32}],
+    "pacman_left":[{"x":352, "y":64},{"x":320, "y":64}],
+    "pacman_right":[{"x":352, "y":1},{"x":320, "y":1}],
+    
+    "blinky_up":[{"x":1, "y":96},{"x":2, "y":96}],
+    "blinky_down":[{"x":1, "y":32},{"x":2, "y":32}],
+    "blinky_left":[{"x":1, "y":64},{"x":2, "y":64}],
+    "blinky_right":[{"x":1, "y":1},{"x":2, "y":1}],
+    
+    "pinky_up":[{"x":128, "y":96},{"x":160, "y":96}],
+    "pinky_down":[{"x":128, "y":32},{"x":160, "y":32}],
+    "pinky_left":[{"x":128, "y":64},{"x":160, "y":64}],
+    "pinky_right":[{"x":128, "y":1},{"x":160, "y":1}],
+    
+    "inky_up":[{"x":7, "y":96},{"x":8, "y":96}],
+    "inky_down":[{"x":7, "y":32},{"x":8, "y":32}],
+    "inky_left":[{"x":7, "y":64},{"x":8, "y":64}],
+    "inky_right":[{"x":7, "y":1},{"x":8, "y":1}],
+    
+    "clyde_up":[{"x":3, "y":96},{"x":4, "y":96}],
+    "clyde_down":[{"x":3, "y":32},{"x":4, "y":32}],
+    "clyde_left":[{"x":3, "y":64},{"x":4, "y":64}],
+    "clyde_right":[{"x":3, "y":1},{"x":4, "y":1}],
+        
+    "wall_up_left":{"x":1, "y":128},
+    "wall_up":{"x":32, "y":128},
+    "wall_up_right":{"x":64, "y":128},
+    "wall_left":{"x":1, "y":160},
+    "wall_center":{"x":32, "y":160},
+    "wall_right":{"x":64, "y":160},
+    "wall_down_left":{"x":1, "y":192},
+    "wall_down":{"x":32, "y":192},
+    "wall_down_right":{"x":64, "y":192},
+    
+    "wall_angle_up_left":{"x":96, "y":128},
+    "wall_angle_up":{"x":128, "y":128},
+    "wall_angle_up_right":{"x":160, "y":128},
+    "wall_angle_left":{"x":96, "y":160},
+    "wall_angle_center":{"x":128, "y":160},
+    "wall_angle_right":{"x":160, "y":160},
+    "wall_angle_down_left":{"x":96, "y":192},
+    "wall_angle_down":{"x":128, "y":192},
+    "wall_angle_down_right":{"x":160, "y":192},
+    
+    "wall_vert_up":{"x":192, "y":128},
+    "wall_vert_center":{"x":192, "y":160},
+    "wall_vert_down":{"x":192, "y":192},
+    
+    "wall_hor_left":{"x":224, "y":128},
+    "wall_hor_center":{"x":256, "y":128},
+    "wall_hor_right":{"x":288, "y":128},
+    
+    "wall_single":{"x":8, "y":6},
+    
+    "pellet":{"x":288, "y":192}
+}
